@@ -23,7 +23,7 @@ const Hero = (props) => {
               <Button label="Hire Me" />
             </div>
             <div className="mlr-10">
-              <Button label="Download CV" inverse={true}/>
+              <div id="Download CV" inverse={true}/>
             </div>
           </div>
         </div>
