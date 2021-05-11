@@ -9,7 +9,7 @@ import { colors } from "../../style";
 const Button = (props) => {
   return (
     <a
-      href= "https://github.com/tushar-km"
+      href= "https://github.com/tushar-km"target="_blank"
       style={{
         boxSizing: "border-box",
         padding: "10px 20px",
