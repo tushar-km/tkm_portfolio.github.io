@@ -22,8 +22,11 @@ const Hero = (props) => {
             <div>
               <Button label="Hire Me" />
             </div>
-            <div className="mlr-10">
-              <div id="Download CV" inverse={true}/>
+            <div id ="downcv">
+              <a href="https://drive.google.com/file/d/1bsCpmADYQhOlbR0emClzEFDyHYq2T1Ww/view?usp=sharing"target="_blank" >
+              Download CV
+              </a>
+              
             </div>
           </div>
         </div>
